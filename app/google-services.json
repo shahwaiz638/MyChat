@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "453473278951",
+    "firebase_url": "https://cp-firebase-8de7e-default-rtdb.firebaseio.com",
+    "project_id": "cp-firebase-8de7e",
+    "storage_bucket": "cp-firebase-8de7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453473278951:android:fc7f731298df19b0ecfb42",
+        "android_client_info": {
+          "package_name": "com.shahwaiz.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453473278951-bop5cgjo2d5lg9354f296066ag1qiop9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7c-80AvGrVr_BF_uVOXQI4bQ1kEnQ13k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453473278951-bop5cgjo2d5lg9354f296066ag1qiop9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
